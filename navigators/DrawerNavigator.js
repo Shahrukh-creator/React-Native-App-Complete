@@ -5,7 +5,6 @@ import {NavigationContainer} from '@react-navigation/native';
 // import Profile from '../screens/ProfileScreen';
 import Home from '../screens/HomeScreen';
 import ContactScreen from '../screens/ContactScreen';
-// import ProfileScreen1 from '../screens/ProfileScreen1';
 import ProfileScreen2 from '../screens/ProfileScreen2';
 import ProfileScreen3 from '../screens/ProfileScreen3';
 
